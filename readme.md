@@ -1,30 +1,27 @@
-# This is a large heading
+# CARLOS SEBASTIAN	
 
-## This is a smaller heading
+### INGENIERO FISICO
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Vivo en la ciudad de Medellin, y por 6 años he estudiado en la Universidad Nacional de Colombia,
+y en estos momentos estoy a puertas de graduarme, faltandome las practicas academicas.
 
-- This is
-- an unordered
-- list
+### Gustos 
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
+Tres de mis gustos son:
 
-```
-This is
-a block
-of code
-```
+- *Minds* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Last night I dreamt about eating in these restaurants:
 
-nano README.md
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
+
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
